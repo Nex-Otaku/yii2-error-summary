@@ -1,0 +1,28 @@
+{
+  "name": "nex-otaku/yii2-error-summary",
+  "type": "library",
+  "description": "Yii2 Error Summary",
+  "keywords": [
+	"yii2",
+	"errors",
+	"validation"
+  ],
+  "license": "MIT",
+  "support": {
+	"source": "https://github.com/nex-otaku/yii2-error-summary",
+	"issues": "https://github.com/nex-otaku/yii2-error-summary/issues"
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require": {
+	"php": "^7.4|^8.0"
+  },
+  "autoload": {
+	"psr-4": {
+	  "NexOtaku\\Yii2\\": "src"
+	}
+  },
+  "config": {
+	"sort-packages": true
+  }
+}
